@@ -1,0 +1,13 @@
+<resources>
+
+
+    <string name="score_1">Disfruta usando %s</string>
+    <string name="score_2">Por favor, danos 5 estrellas en Google Play</string>
+    <string name="no_gp">Su teléfono no tiene instalado un mercado de aplicaciones de Android</string>
+    <string name="app_evaluation">Nos califica</string>
+    <string name="app_feedback">Realimentación</string>
+    <string name="feedback">Realimentación</string>
+    <string name="send">Enviar</string>
+    <string name="submitt_successful">Enviado satisfactoriamente</string>
+    <string name="content_null">Contenido vacio</string>
+</resources>

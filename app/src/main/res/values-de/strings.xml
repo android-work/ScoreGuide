@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="score_1">Viel Spaß mit %s</string>
+    <string name="score_2">Bitte geben Sie uns 5 Sterne bei Google Play</string>
+    <string name="no_gp">Auf Ihrem Telefon ist kein Android App Market installiert</string>
+    <string name="app_evaluation">Bewerten Sie uns</string>
+    <string name="app_feedback">FeedBack</string>
+    <string name="feedback">FeedBack</string>
+    <string name="send">Senden</string>
+    <string name="submitt_successful">erfolgreich eingereicht</string>
+    <string name="content_null">Inhalt leeren</string>
+</resources>

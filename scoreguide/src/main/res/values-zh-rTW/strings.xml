@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string name="score_1">享受使用 %s</string>
+	<string name="score_2">請在Google Play上給我們5顆星</string>
+	<string name="no_gp">您的手機沒有安裝Android應用市場</string>
+	<string name="app_evaluation">評價我們</string>
+	<string name="app_feedback">反饋</string>
+	<string name="feedback">反饋</string>
+	<string name="send">發送</string>
+	<string name="submitt_successful">提交成功</string>
+	<string name="content_null">空的內容</string>
+</resources>

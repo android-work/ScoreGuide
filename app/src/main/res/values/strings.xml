@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name" translatable="false">ScoreGuide</string>
+
+    <string name="score_1" >Enjoy Using %s</string>
+    <string name="score_2" >Please give us 5 stars on Google play</string>
+    <string name="no_gp">Your phone does not have an Android app market installed</string>
+    <string name="app_evaluation">Rate us</string>
+    <string name="app_feedback">FeedBack</string>
+    <string name="feedback">FeedBack</string>
+    <string name="send">Send</string>
+    <string name="submitt_successful">Submitted successfully</string>
+    <string name="content_null">Empty content</string>
+</resources>

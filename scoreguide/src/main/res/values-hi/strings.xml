@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="score_1">%S का उपयोग करके आनंद लें</string>
+    <string name="score_2">कृपया हमें Google Play पर 5 स्टार दें</string>
+    <string name="no_gp">आपके फ़ोन में Android एप्लिकेशन बाज़ार स्थापित नहीं है</string>
+    <string name="app_evaluation">हमें रेटिंग दें</string>
+    <string name="app_feedback">प्रतिक्रिया</string>
+    <string name="feedback">प्रतिक्रिया</string>
+    <string name="send">भेजना</string>
+    <string name="submitt_successful">सफलतापूर्वक जमा</string>
+    <string name="content_null">खाली सामग्री</string>
+</resources>

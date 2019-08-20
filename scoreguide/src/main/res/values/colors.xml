@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="maintvcolor">#A7A9B4</color>
+    <color name="sleep_bg">#111924</color>
+    <color name="nap_bg">#B46955</color>
+    <color name="focus_bg">#467E8F</color>
+    <color name="cloroWater">#fff</color>
+    <color name="no_wak_color">#80FFFFFF</color>
+    <color name="wake_up_color">#fff</color>
+
+    <color name="mianTextColor">#F6ECFF</color>
+    <color name="bgColor">#261e19</color>
+    <color name="notifyNormalColor">#BFBFBF</color>
+    <color name="notifySelectColor">#00E7E7</color>
+    <color name="notifySoluder">#F9F9F9</color>
+    <color name="notifyReminder">#C1000000</color>
+    <color name="normalColor">#6A6C77</color>
+    <color name="set_play_bg">#00273C</color>
+</resources>

@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="score_1">Наслаждайтесь использованием %s</string>
+    <string name="score_2">Пожалуйста, дайте нам 5 звезд в Google Play</string>
+    <string name="no_gp">На вашем телефоне не установлено приложение Android market</string>
+    <string name="app_evaluation">Оцените нас</string>
+    <string name="app_feedback">Обратная связь</string>
+    <string name="feedback">Обратная связь</string>
+    <string name="send">послать</string>
+    <string name="submitt_successful">Отправлено успешно</string>
+    <string name="content_null">Пустой контент</string>
+</resources>

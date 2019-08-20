@@ -7,12 +7,4 @@
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="colorAccent">@color/colorAccent</item>
     </style>
-    <style name="PopuWindowAnimal" >
-        <item name="android:windowEnterAnimation">@anim/popuwindod_enter_anim</item>
-        <item name="android:windowExitAnimation">@anim/popuwindod_hide_anim</item>
-    </style>
-    <style name="MyEditText" parent="Theme.AppCompat.Light">
-        <item name="colorControlNormal">@color/mianTextColor</item>
-        <item name="colorControlActivated">@color/mianTextColor</item>
-    </style>
 </resources>

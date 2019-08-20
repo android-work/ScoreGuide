@@ -12,6 +12,14 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+
     }
 
+    @Override
+    public void onBackPressed() {
+        if(isExit){
+            SccorePopupWindow sccorePopupWindow = new SccorePopupWindow(this);
+            sccorePopupWindow.show(findViewById(R.id.tv),"ljllklkl");
+        }
+    }
 }

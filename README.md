@@ -15,7 +15,7 @@ dependencies {<br>
   
   
  ### Step 3.在清单文件中注册activity<br>
- <activity android:name="com.work.load.scoreguide.FeedbackActivity"/> <br>
+ activity android:name="com.work.load.scoreguide.FeedbackActivity" <br>
  
  ### step 4.创建弹窗对象\<br>
  SccorePopupWindow scorePopupWindow = new SccorePopupWindow(this);<br>

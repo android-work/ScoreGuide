@@ -1,7 +1,7 @@
 package com.work.load.scoreguide;
 
+import android.app.Activity;
 import android.os.Bundle;
-import android.support.v7.app.AppCompatActivity;
 import android.text.TextUtils;
 import android.view.Gravity;
 import android.view.View;
@@ -14,7 +14,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 
-public class FeedbackActivity extends AppCompatActivity implements View.OnClickListener {
+public class FeedbackActivity extends Activity implements View.OnClickListener {
 
     private ImageView feedback_left;
     private TextView tv_feedback_send;

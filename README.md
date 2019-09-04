@@ -10,7 +10,7 @@ allprojects {<br>
   
 ### Step 2. Add the dependency<br>
 dependencies {<br>
-	        implementation 'com.github.android-work:ScoreGuide:1.0.3'<br>
+	        implementation 'com.github.android-work:ScoreGuide:v1.0.4'<br>
 	}
   
   
